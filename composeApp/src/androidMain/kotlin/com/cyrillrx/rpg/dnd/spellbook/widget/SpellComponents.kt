@@ -38,8 +38,8 @@ import com.cyrillrx.rpg.R
 import com.cyrillrx.rpg.api.spellbook.Spell
 import com.cyrillrx.rpg.ui.theme.AppTheme
 import com.cyrillrx.rpg.ui.theme.spacingMedium
-import com.cyrillrx.rpg.ui.widget.OverflowMenu
-import com.cyrillrx.rpg.ui.widget.Search
+import com.cyrillrx.rpg.ui.components.OverflowMenu
+import com.cyrillrx.rpg.ui.components.Search
 import de.charlex.compose.HtmlText
 
 internal val borderStroke = spacingMedium

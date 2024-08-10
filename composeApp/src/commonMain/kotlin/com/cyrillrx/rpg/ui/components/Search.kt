@@ -1,4 +1,4 @@
-package com.cyrillrx.rpg.ui.widget
+package com.cyrillrx.rpg.ui.components
 
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding

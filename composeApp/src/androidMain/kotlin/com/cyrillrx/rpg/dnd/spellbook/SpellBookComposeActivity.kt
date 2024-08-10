@@ -5,7 +5,7 @@ import androidx.activity.compose.setContent
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import com.cyrillrx.rpg.AssetReader
-import com.cyrillrx.rpg.Router.openSpellDetail
+import com.cyrillrx.rpg.AppRouter.openSpellDetail
 import com.cyrillrx.rpg.api.spellbook.Spell
 import com.cyrillrx.rpg.dnd.spellbook.widget.SpellBookPeekScreen
 import com.cyrillrx.rpg.ui.theme.AppTheme

@@ -1,4 +1,4 @@
-package com.cyrillrx.rpg.ui.widget
+package com.cyrillrx.rpg.ui.components
 
 import androidx.compose.material.Icon
 import androidx.compose.runtime.Composable

@@ -1,4 +1,4 @@
-package com.cyrillrx.rpg.ui.widget
+package com.cyrillrx.rpg.ui.components
 
 import androidx.compose.foundation.layout.Box
 import androidx.compose.material.DropdownMenu
@@ -13,6 +13,7 @@ import androidx.compose.runtime.remember
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.res.stringResource
 import com.cyrillrx.rpg.R
+import org.jetbrains.compose.resources.stringResource
 
 @Composable
 fun OverflowMenu(content: @Composable () -> Unit) {
